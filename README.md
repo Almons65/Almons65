@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffreepnglogo.com%2Fimages%2Fall_img%2Fc-logo-a2fa.png&f=1&nofb=1&ipt=dedd1fa0225b06c8964b5ae0f3b45187b57d657a687f46ce5ded260dda362ef0" style="width: 80px; height: auto;">
 
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F724%2F306%2Fpng-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png&f=1&nofb=1&ipt=c4918f474c8a179dc155e772a33e683d878ed81f8596c204345e82a4a0955b61" style="width: 80px; height: auto;">
+  <img width="80px" height="auto" alt="C_logo" src="https://github.com/user-attachments/assets/90d635d9-7d18-4b66-ad14-cd1889720585" />
 
 </div>
