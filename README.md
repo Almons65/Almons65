@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 
   <img width="80px" height="auto" alt="TypeScript_logo" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.My_8gjnBxh0EC7yC4L1QIQHaHa%3Fcb%3Ducfimg2%26pid%3DApi%26ucfimg%3D1&f=1&ipt=c08fe46f1470e8ec72df6861ed6e3f8bf70203d486342e4e81602e5b1b083fa2" />
 
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbrandslogos.com%2Fwp-content%2Fuploads%2Fimages%2Flarge%2Fpython-logo.png&f=1&nofb=1&ipt=e02c426e2a8167780b8e1eb3848887746ee8975d69282e0f61f1e8735d48d082" style="width: 80px; height: auto;">
-
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FLp6bAvd.png&f=1&nofb=1&ipt=798bf7469932a00f414df27087d1d9abe09632bc52575cb0265b184abf32d880" style="width: 80px; height: auto;">
-
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffreepnglogo.com%2Fimages%2Fall_img%2Fc-logo-a2fa.png&f=1&nofb=1&ipt=dedd1fa0225b06c8964b5ae0f3b45187b57d657a687f46ce5ded260dda362ef0" style="width: 80px; height: auto;">
 
   <img width="80px" height="auto" alt="C_logo" src="https://github.com/user-attachments/assets/90d635d9-7d18-4b66-ad14-cd1889720585" />
+
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbrandslogos.com%2Fwp-content%2Fuploads%2Fimages%2Flarge%2Fpython-logo.png&f=1&nofb=1&ipt=e02c426e2a8167780b8e1eb3848887746ee8975d69282e0f61f1e8735d48d082" style="width: 80px; height: auto;">
+
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FLp6bAvd.png&f=1&nofb=1&ipt=798bf7469932a00f414df27087d1d9abe09632bc52575cb0265b184abf32d880" style="width: 80px; height: auto;">
 
   <img width="80px" height="auto" alt="Java_logo" src="https://github.com/user-attachments/assets/71b88e47-d6b8-464c-bb7e-2a2405bd5a5b" />
 
