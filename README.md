@@ -26,4 +26,6 @@ Here are some ideas to get you started:
 
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbrandslogos.com%2Fwp-content%2Fuploads%2Fimages%2Flarge%2Fpython-logo.png&f=1&nofb=1&ipt=e02c426e2a8167780b8e1eb3848887746ee8975d69282e0f61f1e8735d48d082" style="width: 70px; height: auto;">
 
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.5x92BGYXQ7FasL7qtpbT8QHaFi%3Fpid%3DApi&f=1&ipt=44f0ddea1c0c35932bf560dfe40c451a29196815820054ab2e055aabc8c2e746" style="width: 70px; height: auto;">
+
 </div>
