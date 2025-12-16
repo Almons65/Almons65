@@ -38,4 +38,7 @@ Here are some ideas to get you started:
 
   <img width="80px" height="auto" alt="Java_logo" src="https://github.com/user-attachments/assets/71b88e47-d6b8-464c-bb7e-2a2405bd5a5b" />
 
+  <img width="80px" height="auto" alt="Next js_logo" src="https://github.com/user-attachments/assets/1d3e8a6b-a5d3-4a53-a889-3b9993d39e12" />
+
+
 </div>
