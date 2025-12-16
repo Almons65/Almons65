@@ -22,10 +22,10 @@ Here are some ideas to get you started:
   
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fdownload%2Fcss-3%2Flogo-css-3-2048.png&f=1&nofb=1&ipt=2c1540e9a0596ce8de4748a621a9a124333f86977a71f67bd1754f7dc00add5a" style="width: 80px; height: auto;">
 
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Flogo-javascript-logo-png-transparent.png&f=1&nofb=1&ipt=087590c9b22ff45971b4cab913a3cdb141eedc4851e7bbf85c05cbebd000794c" style="width: 70px; height: auto;">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Flogo-javascript-logo-png-transparent.png&f=1&nofb=1&ipt=087590c9b22ff45971b4cab913a3cdb141eedc4851e7bbf85c05cbebd000794c" style="width: 80px; height: auto;">
 
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbrandslogos.com%2Fwp-content%2Fuploads%2Fimages%2Flarge%2Fpython-logo.png&f=1&nofb=1&ipt=e02c426e2a8167780b8e1eb3848887746ee8975d69282e0f61f1e8735d48d082" style="width: 70px; height: auto;">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbrandslogos.com%2Fwp-content%2Fuploads%2Fimages%2Flarge%2Fpython-logo.png&f=1&nofb=1&ipt=e02c426e2a8167780b8e1eb3848887746ee8975d69282e0f61f1e8735d48d082" style="width: 80px; height: auto;">
 
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.5x92BGYXQ7FasL7qtpbT8QHaFi%3Fpid%3DApi&f=1&ipt=44f0ddea1c0c35932bf560dfe40c451a29196815820054ab2e055aabc8c2e746" style="width: 70px; height: auto;">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngitem.com%2Fpimgs%2Fm%2F19-199505_rust-programming-language-logo-hd-png-download.png&f=1&nofb=1&ipt=4698d258febddd525ffc3125e34da7cb6e70ed2e64361b21b2b913299d11a820" style="width: 80px; height: auto;">
 
 </div>
