@@ -42,4 +42,6 @@ Here are some ideas to get you started:
 
   <img width="80px" height="auto" alt="node.js_logo" src="https://github.com/user-attachments/assets/3ade489f-78f9-4860-a2b1-ae6d991e0d5d" />
 
+  <img width="80px" height="auto" alt="sqlite_logo" src="https://github.com/user-attachments/assets/3a73910b-6893-49ee-a84a-da599613d951" />
+
 </div>
