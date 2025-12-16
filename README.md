@@ -22,6 +22,6 @@ Here are some ideas to get you started:
   
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fdownload%2Fcss-3%2Flogo-css-3-2048.png&f=1&nofb=1&ipt=2c1540e9a0596ce8de4748a621a9a124333f86977a71f67bd1754f7dc00add5a" style="width: 80px; height: auto;">
 
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Flogo-javascript-logo-png-transparent.png&f=1&nofb=1&ipt=087590c9b22ff45971b4cab913a3cdb141eedc4851e7bbf85c05cbebd000794c" style="width: 80px; height: auto;">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Flogo-javascript-logo-png-transparent.png&f=1&nofb=1&ipt=087590c9b22ff45971b4cab913a3cdb141eedc4851e7bbf85c05cbebd000794c" style="width: 50px; height: auto;">
 
 </div>
