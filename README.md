@@ -32,4 +32,6 @@ Here are some ideas to get you started:
 
   <img width="80px" height="auto" alt="C_logo" src="https://github.com/user-attachments/assets/90d635d9-7d18-4b66-ad14-cd1889720585" />
 
+  <img width="80px" height="auto" alt="C_logo" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbrandlogos.net%2Fwp-content%2Fuploads%2F2021%2F11%2Fjava-logo.png&f=1&nofb=1&ipt=afeacfe35ef4a3d98dd422a0ae7e2acb1e48fdd61c596a7754de0d29a8d973eb" />
+
 </div>
