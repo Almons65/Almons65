@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbrandslogos.com%2Fwp-content%2Fuploads%2Fimages%2Flarge%2Fpython-logo.png&f=1&nofb=1&ipt=e02c426e2a8167780b8e1eb3848887746ee8975d69282e0f61f1e8735d48d082" style="width: 80px; height: auto;">
 
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngitem.com%2Fpimgs%2Fm%2F19-199505_rust-programming-language-logo-hd-png-download.png&f=1&nofb=1&ipt=4698d258febddd525ffc3125e34da7cb6e70ed2e64361b21b2b913299d11a820" style="width: 80px; height: auto;">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FLp6bAvd.png&f=1&nofb=1&ipt=798bf7469932a00f414df27087d1d9abe09632bc52575cb0265b184abf32d880" style="width: 80px; height: auto;">
 
 </div>
