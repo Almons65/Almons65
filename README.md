@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 
   <img width="90px" height="auto" alt="Next.js_logo" src="https://github.com/user-attachments/assets/d3483ef2-6bf9-458a-8514-feab9f3a263a" />
 
-
+  <img width="80px" height="auto" alt="node.js_logo" src="https://github.com/user-attachments/assets/3ade489f-78f9-4860-a2b1-ae6d991e0d5d" />
 
 </div>
