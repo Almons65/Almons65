@@ -44,4 +44,8 @@ Here are some ideas to get you started:
 
   <img width="160px" height="auto" alt="sqlite_logo" src="https://github.com/user-attachments/assets/3a73910b-6893-49ee-a84a-da599613d951" />
 
+  <img width="80px" height="auto" alt="node.js_logo" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.qt.io%2Fhubfs%2F2016_Qt_Logo%2Fqt_logo_green_rgb.png&f=1&nofb=1&ipt=9347fd1abb594324a448c744892588f13a118264d62a4c92ed8b5ca168fe1c16" />
+
+  
+
 </div>
