@@ -30,4 +30,6 @@ Here are some ideas to get you started:
 
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffreepnglogo.com%2Fimages%2Fall_img%2Fc-logo-a2fa.png&f=1&nofb=1&ipt=dedd1fa0225b06c8964b5ae0f3b45187b57d657a687f46ce5ded260dda362ef0" style="width: 80px; height: auto;">
 
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftoppng.com%2Fuploads%2Fpreview%2Fc-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png&f=1&nofb=1&ipt=965b89e6624c07671879ffd4fec6c9d80921996acb65c8ef60a47c1150a69563" style="width: 80px; height: auto;">
+
 </div>
