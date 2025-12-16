@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
   <img width="80px" height="auto" alt="TypeScript_logo" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.My_8gjnBxh0EC7yC4L1QIQHaHa%3Fcb%3Ducfimg2%26pid%3DApi%26ucfimg%3D1&f=1&ipt=c08fe46f1470e8ec72df6861ed6e3f8bf70203d486342e4e81602e5b1b083fa2" />
 
+  <img width="80px" height="auto" alt="React_logo" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fa7%2FReact-icon.svg%2F2300px-React-icon.svg.png&f=1&nofb=1&ipt=134f47bacc79c5c57fd87b0ba667ba4f9a27433f551d9f6db73c2f43f56d66c8" />
+
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffreepnglogo.com%2Fimages%2Fall_img%2Fc-logo-a2fa.png&f=1&nofb=1&ipt=dedd1fa0225b06c8964b5ae0f3b45187b57d657a687f46ce5ded260dda362ef0" style="width: 80px; height: auto;">
 
   <img width="80px" height="auto" alt="C_logo" src="https://github.com/user-attachments/assets/90d635d9-7d18-4b66-ad14-cd1889720585" />
