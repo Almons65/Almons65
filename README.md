@@ -37,8 +37,10 @@ Here are some ideas to get you started:
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FLp6bAvd.png&f=1&nofb=1&ipt=798bf7469932a00f414df27087d1d9abe09632bc52575cb0265b184abf32d880" style="width: 80px; height: auto;">
 
   <img width="80px" height="auto" alt="Java_logo" src="https://github.com/user-attachments/assets/71b88e47-d6b8-464c-bb7e-2a2405bd5a5b" />
+>
 
-  <img width="80px" height="auto" alt="Next js_logo" src="https://github.com/user-attachments/assets/1d3e8a6b-a5d3-4a53-a889-3b9993d39e12" />
+  <img width="80px" height="auto" alt="Next.js_logo" src="https://github.com/user-attachments/assets/d3483ef2-6bf9-458a-8514-feab9f3a263a" />
+
 
 
 </div>
