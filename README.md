@@ -24,4 +24,6 @@ Here are some ideas to get you started:
 
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Flogo-javascript-logo-png-transparent.png&f=1&nofb=1&ipt=087590c9b22ff45971b4cab913a3cdb141eedc4851e7bbf85c05cbebd000794c" style="width: 70px; height: auto;">
 
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbrandslogos.com%2Fwp-content%2Fuploads%2Fimages%2Flarge%2Fpython-logo.png&f=1&nofb=1&ipt=e02c426e2a8167780b8e1eb3848887746ee8975d69282e0f61f1e8735d48d082" style="width: 70px; height: auto;">
+
 </div>
