@@ -28,4 +28,6 @@ Here are some ideas to get you started:
 
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FLp6bAvd.png&f=1&nofb=1&ipt=798bf7469932a00f414df27087d1d9abe09632bc52575cb0265b184abf32d880" style="width: 80px; height: auto;">
 
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffreepnglogo.com%2Fimages%2Fall_img%2Fc-logo-a2fa.png&f=1&nofb=1&ipt=dedd1fa0225b06c8964b5ae0f3b45187b57d657a687f46ce5ded260dda362ef0" style="width: 80px; height: auto;">
+
 </div>
