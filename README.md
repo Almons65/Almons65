@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Technologies & Tools
+![HTML](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fdownload%2Fhtml-5%2Flogo-html-5-1536.png&f=1&nofb=1&ipt=d8aa6a1df1f3bcf55fe33385a2b94625ad182a81c0367a24701ea6ad5176c857)
