@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Flogo-javascript-logo-png-transparent.png&f=1&nofb=1&ipt=087590c9b22ff45971b4cab913a3cdb141eedc4851e7bbf85c05cbebd000794c" style="width: 80px; height: auto;">
 
+  <img width="80px" height="auto" alt="TypeScript_logo" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.My_8gjnBxh0EC7yC4L1QIQHaHa%3Fcb%3Ducfimg2%26pid%3DApi%26ucfimg%3D1&f=1&ipt=c08fe46f1470e8ec72df6861ed6e3f8bf70203d486342e4e81602e5b1b083fa2" />
+
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbrandslogos.com%2Fwp-content%2Fuploads%2Fimages%2Flarge%2Fpython-logo.png&f=1&nofb=1&ipt=e02c426e2a8167780b8e1eb3848887746ee8975d69282e0f61f1e8735d48d082" style="width: 80px; height: auto;">
 
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FLp6bAvd.png&f=1&nofb=1&ipt=798bf7469932a00f414df27087d1d9abe09632bc52575cb0265b184abf32d880" style="width: 80px; height: auto;">
