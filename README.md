@@ -42,6 +42,9 @@
 </div>
 
 # Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Almons65&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=Almons65&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Almons65&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Almons65&theme=nord&border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Almons65&theme=nord&_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Almons65&theme=nord&hide_border=false)
+
+
+![views since 2023/06/14](https://visitor-badge-deno.deno.dev/Almons65.Almons65.svg)
