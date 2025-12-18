@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ADD8E6&center=true&vCenter=true&width=435&lines=Hi+I'm+Adisorn+Numpradit+..;Software+Engineering+Student..;Craving+on+learning+new+things.." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ADD8E6&center=true&vCenter=true&width=435&lines=Hi+I'm+Adisorn+Numpradit+or+you+can+call+me+Almons..;Software+Engineering+Student+at+KMITL..;I'm+craving+to+learn+new+things.." alt="Typing SVG" />
 </p>
 
 # Technologies & Tools
