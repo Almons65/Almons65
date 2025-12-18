@@ -48,6 +48,8 @@ Here are some ideas to get you started:
 
   <img width="80px" height="auto" alt="fastapi" src="https://github.com/user-attachments/assets/44788cfa-a4da-419b-b790-e0921981714a" />
 
+  <img width="80px" height="auto" alt="fastapi" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F54513237%3Fs%3D200%26v%3D4&f=1&nofb=1&ipt=d29b962f6b2189fb14d0ab7f36bbdb05af3585fbb0c14e4cc5685f6724e9df1c" />
+
 
   
 
