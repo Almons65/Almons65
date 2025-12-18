@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ADD8E6&center=true&vCenter=true&width=435&lines=Hi+I'm+Almons..;Software+Engineering+Student..;I'm+craving+to+learn+new+things.." alt="Typing SVG" />
 </p>
 
-#Languages & Framework & Databases
+# Languages & Framework & Databases
 <div style="display: flex; gap: 20px; align-items: center;">
 
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fdownload%2Fhtml-5%2Flogo-html-5-1536.png&f=1&nofb=1&ipt=d8aa6a1df1f3bcf55fe33385a2b94625ad182a81c0367a24701ea6ad5176c857" style="width: 80px; height: auto;">
