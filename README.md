@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
   <img width="80px" height="auto" alt="node.js_logo" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.qt.io%2Fhubfs%2F2016_Qt_Logo%2Fqt_logo_green_rgb.png&f=1&nofb=1&ipt=9347fd1abb594324a448c744892588f13a118264d62a4c92ed8b5ca168fe1c16" />
 
-  <img width="160px" height="auto" alt="FastAPI_Logo" src="https://github.com/user-attachments/assets/a7b53e78-2484-42a3-bf63-e24604c62b86" />
+  <img width="80px" height="auto" alt="FastAPI_Logo" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.9cYN-RAAjaeW5AMq2Ke9JwHaHa%3Fpid%3DApi&f=1&ipt=606840138f8127d47b18cb68a7c9742cddc297643f0e51d85655822cacb4a4be" />
 
   
 
