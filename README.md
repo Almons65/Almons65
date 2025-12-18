@@ -1,4 +1,6 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=ADD8E6&width=380&height=28&lines=Hi+I'm+Adisorn+Numpradit+..;Software+Engineering+Student..;Craving on learning new things..&center=true"></a></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ADD8E6&center=true&vCenter=true&width=435&lines=Hi+I'm+Adisorn+Numpradit+..;Software+Engineering+Student..;Craving+on+learning+new+things.." alt="Typing SVG" />
+</p>
 
 # Technologies & Tools
 <div style="display: flex; gap: 20px; align-items: center;">
