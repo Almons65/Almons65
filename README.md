@@ -38,6 +38,8 @@
   <img width="80px" height="auto" alt="fastapi" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F54513237%3Fs%3D200%26v%3D4&f=1&nofb=1&ipt=d29b962f6b2189fb14d0ab7f36bbdb05af3585fbb0c14e4cc5685f6724e9df1c" />
 
   <img width="80px" height="auto" alt="Supabase" src="https://github.com/user-attachments/assets/b0c95ea9-a115-419c-a638-605664075a84" />
+
+  <img width="80px" height="auto" alt="Supabase" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fgit-icon-logo-png-transparent.png&f=1&nofb=1&ipt=9553fd153975a658d1ee74126140c9a55c1b9a89b22ad2f0eed7e9a00228fc66" />
   
 </div>
 
